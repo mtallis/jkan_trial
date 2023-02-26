@@ -1,6 +1,6 @@
 title: JKAN Trial
 greeting: A JKAN test site
-description: A lightweight, backend-free open data portal, powered by Jekyll.
+description: A trial of a lightweight, backend-free open data portal, powered by Jekyll.
 baseurl: /jkan_trial
 logo: /img/jkan.png
 
