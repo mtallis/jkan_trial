@@ -17,9 +17,7 @@ schema: default
 # Nav bar
 navigation:
   - title: About
-    sub-pages:
-      - title: What is Open Data?
-        url: /whatisod/
+    url: /whatisod/
   - title: Datasets
     url: /datasets/
   - title: Organizations
