@@ -22,8 +22,6 @@ navigation:
     url: /organizations/
   - title: About
     sub-pages:
-      - title: About this trial
-        url: /about/
       - title: What is Open Data?
         url: /whatisod/
 
