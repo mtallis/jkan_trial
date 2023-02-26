@@ -20,6 +20,12 @@ navigation:
     url: /datasets/
   - title: Organizations
     url: /organizations/
+  - title: About
+    sub-pages:
+      - title: About this trial
+        url: /about/
+      - title: What is Open Data?
+        url: /whatisod/
 
 # Collections
 collections:
